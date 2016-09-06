@@ -25,6 +25,11 @@
   display: inline-block;
 }
 
+.contact_name {
+  display: inline-block;
+  margin: 0;
+}
+
 .contact_list {
   height: 100%;
   margin: 0;
@@ -48,4 +53,5 @@
   border-radius: 50%;
   height: 50px;
   width: 50px;
+  margin: 0;
 }
