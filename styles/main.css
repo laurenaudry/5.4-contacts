@@ -18,3 +18,34 @@
   font-family: arial;
   padding: 2rem;
 }
+
+.contact-list {
+  color: black;
+  list-style: none;
+  display: inline-block;
+}
+
+.contact_list {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.contact {
+  list-style-type: none;
+  height: 60px;
+  border-bottom: 1px solid rgb(233, 235, 238);
+}
+
+.contact_link {
+  display: inline-block;
+  height: 100%;
+  padding: 10px 10px;
+  width: 100%;
+}
+
+.contact_img {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
